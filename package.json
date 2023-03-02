@@ -1,0 +1,21 @@
+{
+  "name": "toxic-dark",
+  "displayName": "toxic-dark",
+  "description": "Theme dark green",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toxic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toxic Dark-color-theme.json"
+      }
+    ]
+  }
+}
