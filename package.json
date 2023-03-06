@@ -14,7 +14,12 @@
       {
         "label": "Toxic Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Toxic Dark-color-theme.json"
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Toxic White",
+        "uiTheme": "vs",
+        "path": "./themes/white2.json"
       }
     ]
   }
